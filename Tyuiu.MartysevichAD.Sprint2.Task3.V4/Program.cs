@@ -15,7 +15,7 @@ namespace Tyuiu.MartysevichAD.Sprint2.Task3.V4
             Console.Title = "Спринт #2 | Выполнил: Мартысевич А. Д. | ИИПб-23-3";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #2                                                              *");
-            Console.WriteLine("* Тема: Логические операции                                              *");
+            Console.WriteLine("* Тема: Вложенные операторы if-else                                      *");
             Console.WriteLine("* Задание #3                                                             *");
             Console.WriteLine("* Вариант #4                                                             *");
             Console.WriteLine("* Выполнил: Мартысевич Андрей Денисович | ИИПб-23-3                      *");
